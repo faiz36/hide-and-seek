@@ -1,0 +1,6 @@
+main: faiz.plugin.main.plugin.Main
+version: 0.0.1
+name: hide-and-seek
+libraries:
+  - io.github.monun:kommand:2.6.6
+depend: [Kotlin]
